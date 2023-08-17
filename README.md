@@ -1,9 +1,8 @@
 # Udacity Data Analyst Nanodegree
 
-This repository contains files related to this degree. There are 3 projects as follows:
+This repository contains files related to this nanodegree. There are 2 projects as follows:
 
 * Project 1: Data Analysis - The Movie Database (10K) Exploratory Data Analysis
-* Project 2: Data Wrangling
-* Project 3: Data Visualization
+* Project 2: Data Wrangling - WeLoveDogs Twitter Archive
 
-All three projects are set up as jupyter notebooks.
+Both projects are set up as jupyter notebooks.
