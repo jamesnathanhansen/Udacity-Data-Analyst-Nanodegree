@@ -7,5 +7,3 @@ This repository contains projects related to the completion of this nanodegree. 
 * Project 3: Data Visualization - Loan Data From Prosper
   *   Part 1: Exploratory data visualization
   *   Part 2: Explanatory data visualization
-
-All projects are set up as Jupyter notebooks.
