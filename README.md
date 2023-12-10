@@ -4,6 +4,6 @@ This repository contains projects related to the completion of this nanodegree. 
 
 * Project 1: Data Analysis - The Movie Database (10K)
 * Project 2: Data Wrangling - Movies & TV Shows Listings Data from Netflix and Amazon Prime
-* Project 3: Data Visualization - 
-  *   Part 1: Exploratory data visualization
-  *   Part 2: Explanatory data visualization
+* Project 3: Data Visualization - Prosper Loan Data
+  *   Part 1: Exploratory Data Analysis
+  *   Part 2: Explanatory Data Analysis
